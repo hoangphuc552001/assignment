@@ -4,6 +4,6 @@
 	},
 	"coin_gecko": {
 		"url": "https://api.coingecko.com/api/v3",
-		"api_key": "CG-D9eF4TpTwLSpM2TPEU7L85tr"
+		"api_key": "YOUR_API_KEY"
 	}
 }
